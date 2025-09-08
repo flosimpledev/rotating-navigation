@@ -10,6 +10,7 @@ body {
     color: #222; /*font color*/
     overflow-x: hidden; /*hide overflow in x-axis*/
     margin: 0;
+    
 }
 
 /* container -> circle & content */
